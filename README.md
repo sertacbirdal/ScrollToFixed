@@ -1,5 +1,4 @@
 **Demo**: https://bigspotteddog.github.io/ScrollToFixed/
-
 *More [fiddle](http://jsfiddle.net/) demo links [below](#demos).*
 
 ScrollToFixed
